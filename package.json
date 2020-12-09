@@ -12,7 +12,9 @@
     "command",
     "http",
     "http-server",
-    "server"
+    "server",
+    "https",
+    "https-server"
   ],
   "scripts": {
     "start": "node ./bin/http-server",
